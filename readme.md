@@ -1,6 +1,4 @@
-# Langchain Ask PDF (Tutorial)
-
->You may find the step-by-step video tutorial to build this application [on Youtube](https://youtu.be/wUAUdEw5oxM).
+# Langchain Ask PDF
 
 This is a Python application that allows you to load a PDF and ask questions about it using natural language. The application uses a LLM to generate a response about your PDF. The LLM will not answer questions unrelated to the document.
 
@@ -28,10 +26,5 @@ To use the application, run the `main.py` file with the streamlit CLI (after hav
 ```
 streamlit run app.py
 ```
-
-
-## Contributing
-
-This repository is for educational purposes only and is not intended to receive further contributions. It is supposed to be used as support material for the YouTube tutorial that shows how to build the project.
 
 
